@@ -4,7 +4,6 @@ Ova aplikacija je WebAR (Augmented Reality) projekt izrađen u sklopu kolegija S
 
 ##  Poveznice
 
-- **Repozitorij koda**: [GitLab](https://gitlab.com/ma_tea/webarsem2/-/tree/main?ref_type=heads)
 - **Primjer rada**: [YouTube video](https://www.youtube.com/watch?v=-EJZwQf5ir0)
 - **Pokrenuta aplikacija**: [Render aplikacija](https://webarsem2.onrender.com/)
 
